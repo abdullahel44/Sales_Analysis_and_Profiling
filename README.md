@@ -63,3 +63,9 @@ Before transforming data, an automated database scanner was implemented using an
 
 ### 3. Clients Dashboard
 ![Clients Dashboard](Clients%20Dashboard.png)
+
+
+## 📐 Data Architecture & Model
+The project follows a clean data modeling approach to ensure high performance:
+
+![Data Model](data_model.png)
